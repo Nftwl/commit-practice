@@ -1,2 +1,2 @@
 # commit-practice
-Practicing GitHub 
+Practicing GitHub commits from mobile
