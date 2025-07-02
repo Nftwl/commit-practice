@@ -1,2 +1,2 @@
 # commit-practice
-Practicing GitHub commits from 
+Practicing GitHub commits 
